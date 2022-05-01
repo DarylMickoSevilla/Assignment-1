@@ -1,0 +1,17 @@
+C:\New folder\My Name\My Name\obj\Debug\net6.0-windows\My Name.csproj.AssemblyReference.cache
+C:\New folder\My Name\My Name\obj\Debug\net6.0-windows\My_Name.Form1.resources
+C:\New folder\My Name\My Name\obj\Debug\net6.0-windows\My Name.csproj.GenerateResource.cache
+C:\New folder\My Name\My Name\obj\Debug\net6.0-windows\My Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\My Name\My Name\obj\Debug\net6.0-windows\My Name.AssemblyInfoInputs.cache
+C:\New folder\My Name\My Name\obj\Debug\net6.0-windows\My Name.AssemblyInfo.cs
+C:\New folder\My Name\My Name\obj\Debug\net6.0-windows\My Name.csproj.CoreCompileInputs.cache
+C:\New folder\My Name\My Name\bin\Debug\net6.0-windows\My Name.exe
+C:\New folder\My Name\My Name\bin\Debug\net6.0-windows\My Name.deps.json
+C:\New folder\My Name\My Name\bin\Debug\net6.0-windows\My Name.runtimeconfig.json
+C:\New folder\My Name\My Name\bin\Debug\net6.0-windows\My Name.dll
+C:\New folder\My Name\My Name\bin\Debug\net6.0-windows\My Name.pdb
+C:\New folder\My Name\My Name\obj\Debug\net6.0-windows\My Name.dll
+C:\New folder\My Name\My Name\obj\Debug\net6.0-windows\refint\My Name.dll
+C:\New folder\My Name\My Name\obj\Debug\net6.0-windows\My Name.pdb
+C:\New folder\My Name\My Name\obj\Debug\net6.0-windows\My Name.genruntimeconfig.cache
+C:\New folder\My Name\My Name\obj\Debug\net6.0-windows\ref\My Name.dll
